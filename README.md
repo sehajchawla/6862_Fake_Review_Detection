@@ -1,1 +1,1 @@
-# 6862_Fake_Review_Detection
+# 6862 Fake Review Detection
