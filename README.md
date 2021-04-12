@@ -8,7 +8,7 @@ The data that is being referred to on the notebooks is all in the following Goog
 
 Please refer to the above link for all the data files mentioned in the details below.
 
-Now, to decsribe what each notebook does we have:
+Now, to describe what each notebook does we have:
 1. `code/notebook_1_data_parsing.ipynb`: This notebook takes in the raw data that we had (files: `amazon_grocery_gourmet.json.gz`, `amazon_prime_pantry.json.gz`, and `yelp_all`) and parses it into a format that is easy to work (files: `amazon_grocery_gourmet.csv`, `amazon_prime_pantry.csv`, and `yelp_all.csv` respectively).
 2. 
 * `code/notebook_2a_yelp_exploration.ipynb`: This notebook performs some preliminary exploration just to get familiar with the csv file (`yelp_all.csv`) and the raw features we have to work with. 
