@@ -1,7 +1,7 @@
 ## Directory Contents
 
 This `1_preprocess` directory contains the following:
-* `1_yelp`: here we parse the yelp data into a readable format (`.csv`), while also performing some EDA and initial text modelling using `LSTM`s and `FFNN`s.
+* `1_yelp`: here we parse the yelp data into a readable format (`.csv`), while also performing some EDA and initial text modelling using LSTMs and FFNNs.
 * `2_opinion_spam`: here we parse and store the opinion spam corpus data in a readable format (`.csv`) by parsing it.
 
 ## Data
