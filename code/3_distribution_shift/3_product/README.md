@@ -1,6 +1,6 @@
 ## Directory Contents
 
-This `2_product` directory contains the following:
+This `3_product` directory contains the following:
 * `1a_train_top3_test_rest_BERT_large.ipynb`: finetunes and evaluates the shift from one cuisine type to another on yelp data using BERT large as the model.
 * `1b_train_top3_test_rest_BERT_small.ipynb`: finetunes and evaluates the shift from one cuisine type to another on yelp data using BERT small as the model.
 * `1c_train_top3_test_rest_mobileBERT.ipynb`: finetunes and evaluates the shift from one cuisine type to another on yelp data using mobile BERT as the model.
