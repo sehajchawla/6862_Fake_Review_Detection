@@ -1,4 +1,4 @@
-# 6862 Fake Review Detection
+# Investigating Distribution Shifts in Review Classification
 
 ## Abstract
 
