@@ -13,7 +13,7 @@ The `code` directory contains the notebooks that we worked on, and is structured
 * `3_distribution_shift`: contains 4 types of distribution shifts (`1_industry`, `2_time`, `3_product`, and `4_sentiment`) and the results for our analysis in each. 
 * `4_finetune_shift`: contains 4 types of distribution shifts (`1_industry`, `2_time`, `3_product`, and `4_sentiment`) and the results for our analysis in each, where we retrain the final layer of a model trained on one distribution with 20% samples from the other distribution. 
 
-There are `README` files in each folder describing the purposes and contents of the folder. This is done to make it easy to navigate through them, but most of the work seen in the "results" section of our report will be found in the directories `3_distribution_shift` and `4_finetune_shift`.
+Most of the work seen in the "results" section of our report will be found in the directories `3_distribution_shift` and `4_finetune_shift`.
 
 ## Data
 
